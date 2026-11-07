@@ -1,0 +1,6 @@
+{
+  "name": "Deepotsav 3D – A Magical Happy Diwali Experience",
+  "description": "An interactive 3D Diwali festival experience featuring real-time 3D diyas, Indian palace architecture, ambient background fireworks, festive Indian music, and personalized greeting card generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
